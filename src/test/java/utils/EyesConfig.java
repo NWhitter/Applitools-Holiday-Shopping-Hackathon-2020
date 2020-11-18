@@ -10,6 +10,7 @@ import static utils.Config.*;
 import static utils.Config.WINDOW_SIZE;
 
 public class EyesConfig {
+
     private static final String API_KEY = "u39ThTsWwbNpYYwSW4LgYkg41I4rCTp8YhGUF45JAfU110";
     public static final String APP_NAME = "AppliFashion";
     private final String batchName;

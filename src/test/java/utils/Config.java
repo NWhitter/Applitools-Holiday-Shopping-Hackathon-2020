@@ -5,6 +5,7 @@ import exceptions.InvalidBrowserProviderException;
 import org.openqa.selenium.Dimension;
 
 public class Config {
+
     public static final Dimension WINDOW_SIZE = new Dimension(1200, 800);
 
     public enum BrowserProvider {
