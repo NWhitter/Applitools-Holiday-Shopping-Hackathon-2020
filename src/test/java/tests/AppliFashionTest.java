@@ -25,7 +25,7 @@ public class AppliFashionTest {
     @BeforeClass(alwaysRun = true)
     @Parameters({"browsers", "env"})
     public void setBatch(String browsers, @Optional final String env) {
-        EyesConfig eyeConfig = new EyesConfig("Testing Lifecycle");
+        EyesConfig eyeConfig = new EyesConfig("Holiday Shopping");
         // Create a runner with 10 concurrency tests
         runner = new VisualGridRunner(10);
         // Create Eyes object with the runner
