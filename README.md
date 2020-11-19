@@ -16,6 +16,6 @@
 2. Navigate to project folder
 3. Add Applitools API key to the 'EyesConfig' class
 4. Run one of the commands below:
-  - Run Part 1: ```test -Dsurefire.suiteXmlFiles=AppliFashion-V1-Production.xml```
-  - Run Part 2: ```test -Dsurefire.suiteXmlFiles=AppliFashion-Dev.xml```
-  - Run Part 3: ```test -Dsurefire.suiteXmlFiles=AppliFashion-Final-Production.xml```
+  - Run Part 1: ```test -Dsurefire.suiteXmlFiles=AppliFashion-Part-One-V1-Production.xml```
+  - Run Part 2: ```test -Dsurefire.suiteXmlFiles=AppliFashion-Part-Two-Dev.xml```
+  - Run Part 3: ```test -Dsurefire.suiteXmlFiles=AppliFashion-Part-Three-Final-Production.xml```
