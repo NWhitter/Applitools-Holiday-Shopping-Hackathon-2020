@@ -11,7 +11,7 @@ import static utils.Config.WINDOW_SIZE;
 
 public class EyesConfig {
 
-    private static final String API_KEY = "u39ThTsWwbNpYYwSW4LgYkg41I4rCTp8YhGUF45JAfU110";
+    private static final String API_KEY = "%%API_KEY_HERE%%";
     public static final String APP_NAME = "AppliFashion";
     private final String batchName;
 
